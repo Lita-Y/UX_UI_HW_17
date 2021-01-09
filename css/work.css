@@ -59,6 +59,12 @@
     display: flex;
     flex-direction: row;
 }
+.link_buzz {
+    font-family: "Oswald", Arial, Helvetica, sans-serif;
+    color: #404040;
+    padding: 5px;
+    text-decoration: none;
+}
 #readMore {
     background-color: #404040;
     font-family: "Oswald", Arial, Helvetica, sans-serif;
